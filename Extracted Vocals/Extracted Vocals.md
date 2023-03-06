@@ -1,0 +1,28 @@
+# Extracted Vocals
+
+---
+
+![](01%20-%20View%20of%20Coma_vocals.mp3)
+![](01%20-%20View%20Of%20Coma_vocals%202.mp3)
+![](02%20-%20Cemeteries%20and%20Greyhound%20Busses_Voice.mp3)
+![](02%20-%20Seven%20Days_vocals.mp3)
+![](03%20-%20Diet%20Coke%20and%20Mentos_vocals.mp3)
+![](03%20-%20Goodbye%20Mr.%20Perfection_vocals.mp3)
+![](04%20-%20A%20Letter%20To%20Write_vocals.mp3)
+![](04%20-%20Valuntas%20Tua_vocals.mp3)
+![](05%20-%20The%20Great%20Escape_vocals.mp3)
+![](05%20-%20Where%20Are%20The%20Angels%20Now_vocals.mp3)
+![](06%20-%20Goodbye%20Mr.%20Perfection_vocals.mp3)
+![](06%20-%20Keep%20It%20Steady_vocals.mp3)
+![](07%20-%20From%20Atop%20A%20Burning%20Building_vocals.mp3)
+![](08%20-%20May_vocals.mp3)
+![](09%20-%20Our%20Perfect%20Ending_vocals.mp3)
+![](10%20-%20When%20Open%20Air%20Becomes%20a%20Battlefield_vocals.mp3)
+![](11%20-%20Life%20Is%20Just%20A%20Box%20(demo)_vocals.mp3)
+![](12%20-%20Winona%20Ride-You_vocals.mp3)
+![](Cemeteries.mp3)
+![](Cemeteries%20and%20Greyhound%20Busses_Vocals.mp3)
+![](Cemeteries%20and%20Greyhound%20Busses_Vocals%20122.mp3)
+![](Deja%20Normal%20Cemeteries%20and%20Greyhound%20Buses%20Piano%20Version_Vocals.mp3)
+![](Deja%20Normal%20Cemeteries%20and%20Greyhound%20Buses%20Piano%20Version_Voice.mp3)
+[Extracted Vocals](Extracted%20Vocals.md)

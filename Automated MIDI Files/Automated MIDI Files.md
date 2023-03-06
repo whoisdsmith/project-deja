@@ -1,0 +1,75 @@
+# Automated MIDI Files
+
+---
+
+%% Begin Waypoint %%
+- **[Automated MIDI Files](./Automated%20MIDI%20Files.md)**
+	- **[01 - View of Coma MIDI Layers](./01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma%20MIDI%20Layers.md)**
+	- **[02 - Seven Days](./02%20-%20Seven%20Days/02%20-%20Seven%20Days.md)**
+		- [02 - Seven Days](./02%20-%20Seven%20Days/02%20-%20Seven%20Days.md)
+	- **[03 - Diet Coke and Mentos](./03%20-%20Diet%20Coke%20and%20Mentos/03%20-%20Diet%20Coke%20and%20Mentos.md)**
+		- [03 - Diet Coke and Mentos](./03%20-%20Diet%20Coke%20and%20Mentos/03%20-%20Diet%20Coke%20and%20Mentos.md)
+	- **[04 - A Letter To Write](./04%20-%20A%20Letter%20To%20Write/04%20-%20A%20Letter%20To%20Write.md)**
+		- [04 - A Letter To Write](./04%20-%20A%20Letter%20To%20Write/04%20-%20A%20Letter%20To%20Write.md)
+	- **[05 - The Great Escape](./05%20-%20The%20Great%20Escape/05%20-%20The%20Great%20Escape.md)**
+		- [05 - The Great Escape](./05%20-%20The%20Great%20Escape/05%20-%20The%20Great%20Escape.md)
+	- [Automated MIDI Files](./Automated%20MIDI%20Files.md)
+
+%% End Waypoint %%
+
+[01 - View of Coma](01%20-%20View%20of%20Coma.md)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma/01%20-%20View%20of%20Coma_Bass.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma/01%20-%20View%20of%20Coma_Drums.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma/01%20-%20View%20of%20Coma_Other.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma/01%20-%20View%20of%20Coma_Vocals.mid)
+[01 - View of Coma MIDI Layers](01%20-%20View%20of%20Coma%20MIDI%20Layers.md)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma_Bass.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma_Drums.mid)
+![](01%20-%20View%20of%20Coma_Guitar.mid)
+![](01%20-%20View%20of%20Coma_Kick%20Drum.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma_Other.mid)
+![](01%20-%20View%20of%20Coma_Percussion.mid)
+![](01%20-%20View%20of%20Coma_Piano.mid)
+![](01%20-%20View%20of%20Coma_Voice.mid)
+[Automated MIDI Files](Automated%20MIDI%20Files.md)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma%20MIDI%20II/01%20-%20View%20of%20Coma_Vocals.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma%20MIDI%20II/01%20-%20View%20of%20Coma_Other.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma%20MIDI%20II/01%20-%20View%20of%20Coma_Drums.mid)
+![](Automated%20MIDI%20Files/01%20-%20View%20of%20Coma%20MIDI%20Layers/01%20-%20View%20of%20Coma%20MIDI%20II/01%20-%20View%20of%20Coma_Bass.mid)
+[01 - View of Coma MIDI II](01%20-%20View%20of%20Coma%20MIDI%20II.md)
+[02 - Seven Days](02%20-%20Seven%20Days.md)
+![](02%20-%20Seven%20Days_Bass.mid)
+![](02%20-%20Seven%20Days_Drums.mid)
+![](02%20-%20Seven%20Days_Guitar.mid)
+![](02%20-%20Seven%20Days_Kick%20Drum.mid)
+![](02%20-%20Seven%20Days_Percussion.mid)
+![](02%20-%20Seven%20Days_Piano.mid)
+![](02%20-%20Seven%20Days_Strings.mid)
+![](02%20-%20Seven%20Days_Voice.mid)
+[03 - Diet Coke and Mentos](03%20-%20Diet%20Coke%20and%20Mentos.md)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Bass.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Drums.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Guitar.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Kick%20Drum.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Percussion.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Piano.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Strings.mid)
+![](03%20-%20Diet%20Coke%20and%20Mentos_Voice.mid)
+[04 - A Letter To Write](04%20-%20A%20Letter%20To%20Write.md)
+![](04%20-%20A%20Letter%20To%20Write_Bass.mid)
+![](04%20-%20A%20Letter%20To%20Write_Drums.mid)
+![](04%20-%20A%20Letter%20To%20Write_Guitar.mid)
+![](04%20-%20A%20Letter%20To%20Write_Kick%20Drum.mid)
+![](04%20-%20A%20Letter%20To%20Write_Percussion.mid)
+![](04%20-%20A%20Letter%20To%20Write_Piano.mid)
+![](04%20-%20A%20Letter%20To%20Write_Strings.mid)
+![](04%20-%20A%20Letter%20To%20Write_Voice.mid)
+[05 - The Great Escape](05%20-%20The%20Great%20Escape.md)
+![](05%20-%20The%20Great%20Escape_Bass.mid)
+![](05%20-%20The%20Great%20Escape_Drums.mid)
+![](05%20-%20The%20Great%20Escape_Guitar.mid)
+![](05%20-%20The%20Great%20Escape_Kick%20Drum.mid)
+![](05%20-%20The%20Great%20Escape_Other.mid)
+![](05%20-%20The%20Great%20Escape_Percussion.mid)
+![](05%20-%20The%20Great%20Escape_Piano.mid)
+![](05%20-%20The%20Great%20Escape_Voice.mid)
