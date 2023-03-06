@@ -2,19 +2,18 @@
 
 ---
 
-![](CMU%20Article.pdf)
-![](IsabellaCML_20060906_01.pdf)
-[PDFs](PDFs.md)
 ![](7%20%20Days.html)
 ![](Backstage%20With%20the%20Band.html)
 ![](Bio%20on%20Deja%20Norm'al.html)
 ![](Cemeteries.html)
+![](Deja%20Norm'al%20shirt%20design%20by%20ductapecrazy%20on%20DeviantArt.html)
 ![](dejanormaldotcom.html)
 ![](dejanormaldotcom2.html)
 ![](dejanormaldotcom3.html)
 ![](dejanormaldotcom4.html)
 ![](dejanormaldotcom5.html)
 ![](dejanormaldotcom6.html)
+![](DeviantArt.html)
 ![](Diet%20Coke.html)
 ![](Diet%20Coke%20and%20Mentos.html)
 ![](flyer.html)
