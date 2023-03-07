@@ -54,4 +54,4 @@
 ![](IMG_5995.JPG)
 ![](IMG_5996.JPG)
 ![](IMG_6008.JPG)
-[Open Eyes](Open%20Eyes.md)
+[Open Eyes](../../../../..//Images/Artwork/Generated%20Artwork/Open%20Eyes/Open%20Eyes.md)

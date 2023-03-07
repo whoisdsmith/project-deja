@@ -2,7 +2,7 @@
 
 ---
 
-[Cemeteries](Cemeteries.md)
+[Cemeteries](../../../../..//Images/Artwork/Generated%20Artwork/Cemeteries/Cemeteries.md)
 ![](IMG_5691.JPG)
 ![](IMG_5692.JPG)
 ![](IMG_5695.JPG)

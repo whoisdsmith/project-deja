@@ -21,4 +21,4 @@
 ![](IMG_5816.JPG)
 ![](IMG_5817.JPG)
 ![](IMG_5818.JPG)
-[State of Coma](State%20of%20Coma.md)
+[State of Coma](../../../../..//Images/Artwork/Generated%20Artwork/State%20of%20Coma/State%20of%20Coma.md)

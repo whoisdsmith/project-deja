@@ -18,4 +18,4 @@
 ![](IMG_5990.jpg)
 ![](IMG_5991.jpg)
 ![](IMG_5992.jpg)
-[Lyrics](Lyrics.md)
+[Lyrics](../..//Lyrics/Lyrics.md)
