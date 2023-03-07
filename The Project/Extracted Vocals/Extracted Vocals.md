@@ -25,4 +25,4 @@
 ![](Cemeteries%20and%20Greyhound%20Busses_Vocals%20122.mp3)
 ![](Deja%20Normal%20Cemeteries%20and%20Greyhound%20Buses%20Piano%20Version_Vocals.mp3)
 ![](Deja%20Normal%20Cemeteries%20and%20Greyhound%20Buses%20Piano%20Version_Voice.mp3)
-[Extracted Vocals](../..//Extracted%20Vocals/Extracted%20Vocals.md)
+[Extracted Vocals](../../..//The%20Project/Extracted%20Vocals/Extracted%20Vocals.md)

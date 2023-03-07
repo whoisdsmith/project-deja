@@ -2,7 +2,7 @@
 
 ---
 
-[Deja Song Breakdowns](../..//Deja%20Song%20Breakdowns/Deja%20Song%20Breakdowns.md)
+[Deja Song Breakdowns](../../..//The%20Project/Deja%20Song%20Breakdowns/Deja%20Song%20Breakdowns.md)
 ![](Deja-TrackList.csv)
 ![](diet%20coke%20and%20mentos.png)
 ![](From%20atop%20a%20burning%20building.png)

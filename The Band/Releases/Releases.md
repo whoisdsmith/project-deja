@@ -2,7 +2,7 @@
 
 ---
 
-![](From%20Atop%20a%20Burning%20Building.jpg)
+![](../Images/Artwork/From%20Atop%20a%20Burning%20Building.jpg)
 
 [From Atop A Burning Building](From%20Atop%20A%20Burning%20Building/From%20Atop%20A%20Burning%20Building.md)
 
@@ -23,7 +23,7 @@
 
 ![](Misc/Deja%20Normal%20Cemeteries%20and%20Greyhound%20Buses%20Christopher%20Morrow%20Piano%20Version.mp3)
 
-![](The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age.jpg)
+![](../Images/Artwork/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age.jpg)
 
 [The Indifferent Beginnings Of The Modern Age EP](The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP.md)
 
@@ -42,7 +42,7 @@
 ![](This%20War%20Is%20Over%20(Demos)/03%20Diet%20Coke%20and%20Mentos%20(Da%20Muthafukken%20ReMix).mp3)
 ![](This%20War%20Is%20Over%20(Demos)/04%20This%20War%20Is%20Over%20(Alternate%20Version).mp3)
 
-![](This%20War%20Is%20Over.jpg)
+![](../Images/Artwork/This%20War%20Is%20Over.jpg)
 
 [This War Is Over EP](This%20War%20Is%20Over%20EP/This%20War%20Is%20Over%20EP.md)
 
