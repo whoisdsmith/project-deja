@@ -6,6 +6,13 @@
 
 Anything and Everything Collected and Analyzed of the mid 2000s Band: Deja Normal
 
+---
+
+
+![](IMG_5853.JPG)
+
+---
+
 TOC
 
 - [Automated MIDI Files](Automated%20MIDI%20Files/Automated%20MIDI%20Files.md)
@@ -32,8 +39,16 @@ TOC
 			- [State of Coma](Images/Artwork/Generated%20Artwork/State%20of%20Coma/State%20of%20Coma.md)
 			- [This War Is Over](Lyrics/This%20War%20Is%20Over/This%20War%20Is%20Over.md)
 - [Lyrics](Lyrics/Lyrics.md)
+	- [From Atop A Burning Building](Lyrics/From%20Atop%20A%20Burning%20Building/From%20Atop%20A%20Burning%20Building.md)
+	- [This War Is Over](Lyrics/This%20War%20Is%20Over/This%20War%20Is%20Over.md)
 - [Reimagination](Reimagination/Reimagination.md)
+	- [Song-Keys-BPM](Song-Keys-BPM.md)
 - [Releases](Releases/Releases.md)
+	- [The Indifferent Beginnings Of The Modern Age EP](Releases/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP.md)
+	- [From Atop A Burning Building](Releases/From%20Atop%20A%20Burning%20Building/From%20Atop%20A%20Burning%20Building.md)
+	- [This War Is Over (Demos)](This%20War%20Is%20Over%20(Demos).md)
+	- [This War Is Over EP](Releases/This%20War%20Is%20Over%20EP/This%20War%20Is%20Over%20EP.md)
+	- [Misc](Misc.md)
 - [Videos](Videos/Videos.md)
 	- [The Indifferent Beginnings Of The Modern Age EP](Videos/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP/The%20Indifferent%20Beginnings%20Of%20The%20Modern%20Age%20EP.md)
 	- [From Atop A Burning Building](Videos/From%20Atop%20A%20Burning%20Building/From%20Atop%20A%20Burning%20Building.md)
