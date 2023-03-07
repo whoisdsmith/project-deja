@@ -25,4 +25,3 @@ So that my past becomes a souvenir to add To the clutch and the things that I ha
 Now she opens her eyes Directs them towards the sky Says is there any room for him and I In your kingdom?
 
 ---
-

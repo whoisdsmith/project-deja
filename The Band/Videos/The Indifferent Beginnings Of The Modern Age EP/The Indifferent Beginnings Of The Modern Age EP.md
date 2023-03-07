@@ -1,4 +1,4 @@
-# The Indifferent Beginnings Of The Modern Age 
+# The Indifferent Beginnings Of The Modern Age
 
 ---
 

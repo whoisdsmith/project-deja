@@ -74,5 +74,4 @@ Keep playing on your knees.
 
 Especially the lines around your eyes.
 
-So sleep tight. you . . .
-
+So sleep tight. you …

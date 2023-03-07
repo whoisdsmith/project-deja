@@ -2,8 +2,6 @@
 
 ---
 
-
-
 But I'm out with nothing left to show.
 
 But I owe you some dirty air that escapes.

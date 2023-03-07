@@ -1,4 +1,4 @@
-# This War Is Over 
+# This War Is Over
 
 ---
 

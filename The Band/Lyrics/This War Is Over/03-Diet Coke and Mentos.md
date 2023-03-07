@@ -60,6 +60,6 @@ We Both Said We Wouldn't Jump Off This Bridge Until We Knew How Deep The Water I
 
 We Both Said We Wouldn't Jump Off This Bridge Until We Knew How Deep The Water Is.
 
-We Both Said We Wouldn't Jump Off This Bridge Until We Knew How Deep The Water Is. 
+We Both Said We Wouldn't Jump Off This Bridge Until We Knew How Deep The Water Is.
 
 ---

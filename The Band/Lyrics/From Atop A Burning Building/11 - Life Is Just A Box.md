@@ -93,4 +93,3 @@ I've got my problems, you've got answers.
 I don't forget that this is cancer.
 
 I don't forget that this is cancer. był był był był był bill
-
